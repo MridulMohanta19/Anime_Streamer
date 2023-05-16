@@ -55,5 +55,6 @@ header .navbar a{
 }
 
 header .navbar a:hover{
-    color: #E50914;
+    color: #fff;
+    background: #E50914;
 }
