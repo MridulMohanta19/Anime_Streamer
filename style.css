@@ -54,7 +54,16 @@ header .navbar a{
     color: #fff;
 }
 
+header .navbar a.active,
 header .navbar a:hover{
     color: #fff;
-    background: #E50914;
+    background-color: #E50914;
+}
+
+header .icons i,
+header .icons a{
+    cursor: pointer;
+    margin-left: .5rem;
+    height: 4.5rem;
+    
 }
